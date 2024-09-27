@@ -11,7 +11,7 @@ configuraciones graficas del framework de django
 - 8 seleccionar interprete de python --> presione F1
 - 9 actualizar python -m pip install --upgrade pip
 - 10 Instalar Django -->  python -m pip install django
-- 11 Creando el proyecto --> django-admin startproject web_project .
+- 11 Creando el proyecto --> django-admin startproject web_videocine .
 - 12 realizando migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor web -->  python manage.py runserver
 - me trabajo el proyecto
